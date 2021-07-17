@@ -1,0 +1,12 @@
+{
+	"short_name": "SneManden.com",
+	"name": "SneManden.com",
+	"description": "SneManden.com is a personal blog of Casper Kehlet Roi",
+	"categories": ["blog"],
+	"lang": "da-DK",
+	"dir": "ltr",
+	"start_url": "/blog",
+	"display": "minimal-ui",
+	"background_color": "#ffffff",
+	"theme_color": "#358724"
+}
